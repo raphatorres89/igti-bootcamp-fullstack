@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>RGB</title>
+  </head>
+  <body>
+    <div class="container">
+      <div>
+        <div class="color-line">
+          <span>(R) Vermelho:</span>
+          <input
+            type="range"
+            max="255"
+            min="0"
+            value="0"
+            class="range"
+            id="red"
+          />
+          <input type="text" class="range-value" id="red-input" disabled />
+        </div>
+        <div class="color-line">
+          <span>(G) Verde:</span>
+          <input
+            type="range"
+            max="255"
+            min="0"
+            value="0"
+            class="range"
+            id="green"
+          />
+          <input type="text" class="range-value" id="green-input" disabled />
+        </div>
+        <div class="color-line">
+          <span>(B) Azul:</span>
+          <input
+            type="range"
+            max="255"
+            min="0"
+            value="0"
+            class="range"
+            id="blue"
+          />
+          <input type="text" class="range-value" id="blue-input" disabled />
+        </div>
+      </div>
+      <div id="final-color"></div>
+    </div>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>

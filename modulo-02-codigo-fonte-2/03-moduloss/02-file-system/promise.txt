@@ -1,0 +1,2 @@
+teste com promise
+teste append file
