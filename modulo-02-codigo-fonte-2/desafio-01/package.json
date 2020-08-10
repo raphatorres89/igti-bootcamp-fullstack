@@ -1,13 +1,12 @@
 {
-  "name": "desafio-01",
+  "name": "trabalho-pratico",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "type": "module",
+  "author": "Mauricio Viana",
   "license": "ISC"
 }

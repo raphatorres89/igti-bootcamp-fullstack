@@ -1,0 +1,20 @@
+2020-08-06T22:45:53.196Z [my-app] error: Error log
+2020-08-06T22:45:53.197Z [my-app] warn: Warn log
+2020-08-06T22:45:53.197Z [my-app] info: Info log
+2020-08-06T22:45:53.197Z [my-app] verbose: Verbose log
+2020-08-06T22:45:53.197Z [my-app] debug: Debug log
+2020-08-06T22:45:53.197Z [my-app] silly: Silly log
+2020-08-06T22:46:03.746Z [my-app] error: Error log
+2020-08-06T22:46:03.747Z [my-app] warn: Warn log
+2020-08-06T22:46:03.747Z [my-app] info: Info log
+2020-08-06T22:46:03.747Z [my-app] verbose: Verbose log
+2020-08-06T22:46:03.747Z [my-app] debug: Debug log
+2020-08-06T22:46:03.748Z [my-app] silly: Silly log
+2020-08-06T22:46:03.748Z [my-app] warn: log com param
+2020-08-06T22:47:58.649Z [my-app] error: Error log
+2020-08-06T22:47:58.651Z [my-app] warn: Warn log
+2020-08-06T22:47:58.651Z [my-app] info: Info log
+2020-08-06T22:47:58.651Z [my-app] verbose: Verbose log
+2020-08-06T22:47:58.651Z [my-app] debug: Debug log
+2020-08-06T22:47:58.652Z [my-app] silly: Silly log
+2020-08-06T22:47:58.652Z [my-app] warn: log com param

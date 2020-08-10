@@ -1,0 +1,57 @@
+2020-08-08T22:42:35.122Z [my-bank-api] info: API Started!
+2020-08-08T22:43:05.002Z [my-bank-api] error: POST /account - ENOENT: no such file or directory, open 'accounts.json'
+2020-08-08T22:45:39.155Z [my-bank-api] info: Api started and file created
+2020-08-08T22:45:54.741Z [my-bank-api] info: API Started!
+2020-08-08T22:46:17.800Z [my-bank-api] info: API Started!
+2020-08-08T22:47:39.529Z [my-bank-api] info: API Started!
+2020-08-08T22:47:57.469Z [my-bank-api] info: API Started!
+2020-08-08T22:48:23.013Z [my-bank-api] info: API Started!
+2020-08-08T22:49:10.490Z [my-bank-api] info: API Started!
+2020-08-08T22:51:12.465Z [my-bank-api] info: API Started!
+2020-08-08T22:51:32.750Z [my-bank-api] info: POST /account - {"id":1,"name":"Raphael Torres","balance":200}
+2020-08-08T22:51:59.107Z [my-bank-api] info: PUT /account - {"id":1,"name":"Raphael Carvalho","balance":200}
+2020-08-08T22:52:07.197Z [my-bank-api] info: GET /account
+2020-08-08T22:52:15.667Z [my-bank-api] info: PATCH /account - {"id":1,"name":"Raphael Carvalho","balance":300}
+2020-08-08T22:52:51.857Z [my-bank-api] info: PATCH /account - {"id":1,"name":"Raphael Carvalho","balance":300}
+2020-08-08T23:59:25.212Z [my-bank-api] info: API Started!
+2020-08-08T23:59:56.679Z [my-bank-api] info: API Started!
+2020-08-09T00:01:19.073Z [my-bank-api] info: API Started!
+2020-08-09T00:01:25.976Z [my-bank-api] info: API Started!
+2020-08-09T00:02:34.130Z [my-bank-api] info: API Started!
+2020-08-09T00:02:39.202Z [my-bank-api] info: API Started!
+2020-08-09T00:03:30.144Z [my-bank-api] info: API Started!
+2020-08-09T00:03:47.646Z [my-bank-api] info: API Started!
+2020-08-09T00:04:02.852Z [my-bank-api] info: PATCH /account/updateBalance - {
+  "id": 1,
+  "name": "Raphael Carvalho",
+  "balance": 300
+}
+2020-08-09T00:04:07.445Z [my-bank-api] error: PATCH /account - Registro não encontrado pelo id: 7
+2020-08-09T00:04:14.527Z [my-bank-api] info: PATCH /account/updateBalance - {
+  "id": 1,
+  "name": "Raphael Carvalho",
+  "balance": 300
+}
+2020-08-09T00:04:19.968Z [my-bank-api] info: PATCH /account/updateBalance - {
+  "id": 1,
+  "name": "Raphael Carvalho"
+}
+2020-08-09T00:05:33.714Z [my-bank-api] info: API Started!
+2020-08-09T00:05:37.255Z [my-bank-api] info: PATCH /account/updateBalance - {
+  "id": 1,
+  "name": "Raphael Carvalho"
+}
+2020-08-09T00:05:38.808Z [my-bank-api] info: PATCH /account/updateBalance - {
+  "id": 1,
+  "name": "Raphael Carvalho"
+}
+2020-08-09T00:05:46.301Z [my-bank-api] info: POST /account - {"id":2,"name":"Raphael Torres","balance":200}
+2020-08-09T00:05:57.197Z [my-bank-api] info: PATCH /account/updateBalance - {
+  "id": 1,
+  "name": "Raphael Carvalho"
+}
+2020-08-09T00:28:13.252Z [my-bank-api] info: API Started!
+2020-08-09T00:28:17.689Z [my-bank-api] error: PATCH /account - Balance é obrigatório
+2020-08-09T00:29:00.519Z [my-bank-api] info: API Started!
+2020-08-09T00:29:34.844Z [my-bank-api] info: API Started!
+2020-08-09T16:08:51.516Z [my-bank-api] info: API Started!
