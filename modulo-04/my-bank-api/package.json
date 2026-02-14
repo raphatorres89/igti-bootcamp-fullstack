@@ -11,7 +11,7 @@
   "author": "Raphael Carvalho Torres",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "mongoose": "^5.10.2",
     "nodemon": "^2.0.4"
   }
